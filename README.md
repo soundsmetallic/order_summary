@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL][(https://github.com/soundsmetallic/order_summary)
+- [Solution URL](https://github.com/soundsmetallic/order_summary)
 - [Live Site URL](https://soundsmetallic.github.io/order_summary/)
 
 ## My process
