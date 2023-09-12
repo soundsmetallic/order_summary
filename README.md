@@ -49,4 +49,4 @@ I became more familiar with the background property. I learned how to use the sh
 ## Author
 
 - Matej Hrovaat
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/soundsmetallic)
+- Frontend Mentor - [@soundsmetallic](https://www.frontendmentor.io/profile/soundsmetallic)
